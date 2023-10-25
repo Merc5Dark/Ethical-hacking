@@ -51,6 +51,22 @@ Wireless Network Security: Testing the security of Wi-Fi networks to protect aga
 Mobile Application Security: Ensuring the security of mobile apps, protecting user data.
 Social Engineering: Assessing the human element of security through simulated phishing and other techniques.
 
+## Ethical Hacking Process
+Planning: Define the scope and objectives of the ethical hacking assessment. Obtain proper authorization and documentation.
+
+Reconnaissance: Gather information about the target system, such as IP addresses, domain names, and system architecture.
+
+Scanning and Enumeration: Use various tools to scan the target for open ports and services and enumerate information about the system.
+
+Vulnerability Analysis: Identify and assess potential vulnerabilities in the system, including misconfigurations and weak security settings.
+
+Exploitation: If vulnerabilities are found, ethical hackers attempt to exploit them to confirm their severity.
+
+Reporting: Document findings, including the vulnerabilities discovered, their potential impact, and recommendations for remediation.
+
+Remediation: Work with the system owner to fix the identified vulnerabilities.
+
+Verification: Re-test the system to ensure that the identified vulnerabilities have been successfully remediated.
 
 
 
