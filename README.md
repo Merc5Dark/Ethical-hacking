@@ -16,3 +16,18 @@ Security Assessment: Conducting a thorough evaluation of the organization's secu
 Reporting: Documenting and reporting vulnerabilities, along with recommendations for mitigation, to the system owner.
 
 Remediation Support: Assisting the organization in implementing the necessary fixes and security enhancements.
+
+## Ethical Hacking Methodology
+Ethical hackers follow a structured methodology to ensure a systematic and thorough approach. This methodology typically includes the following steps:
+
+Reconnaissance: Gathering information about the target system or network.
+
+Scanning: Identifying open ports, services, and potential vulnerabilities.
+
+Gaining Access: Attempting to exploit vulnerabilities to gain unauthorized access.
+
+Maintaining Access: Once access is achieved, maintaining it to assess the extent of the compromise.
+
+Covering Tracks: Removing any evidence of the intrusion.
+
+Analysis and Reporting: Documenting findings and providing recommendations for improving security.
