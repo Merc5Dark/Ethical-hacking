@@ -31,3 +31,13 @@ Maintaining Access: Once access is achieved, maintaining it to assess the extent
 Covering Tracks: Removing any evidence of the intrusion.
 
 Analysis and Reporting: Documenting findings and providing recommendations for improving security.
+
+## Ethical Hacking Tools
+Ethical hackers utilize a wide range of tools to assist in their assessments, including:
+
+Scanners: Tools like Nessus and OpenVAS for vulnerability scanning.
+Exploitation Frameworks: Metasploit for testing vulnerabilities and exploits.
+Password Cracking: Tools like John the Ripper for testing password strength.
+Network Analysis: Wireshark for monitoring and analyzing network traffic.
+Web Application Testing: Burp Suite for assessing web application security.
+Forensic Tools: For investigating incidents and analyzing system logs.
