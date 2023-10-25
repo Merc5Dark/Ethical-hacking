@@ -41,3 +41,33 @@ Password Cracking: Tools like John the Ripper for testing password strength.
 Network Analysis: Wireshark for monitoring and analyzing network traffic.
 Web Application Testing: Burp Suite for assessing web application security.
 Forensic Tools: For investigating incidents and analyzing system logs.
+
+## Ethical Hacking in Practice
+Ethical hacking is applied in various domains, including:
+
+Web Application Security: Ensuring websites and web applications are protected from vulnerabilities like SQL injection and cross-site scripting (XSS).
+Network Security: Identifying weaknesses in network infrastructure to prevent data breaches.
+Wireless Network Security: Testing the security of Wi-Fi networks to protect against unauthorized access.
+Mobile Application Security: Ensuring the security of mobile apps, protecting user data.
+Social Engineering: Assessing the human element of security through simulated phishing and other techniques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
